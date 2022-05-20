@@ -1,0 +1,19 @@
+{
+    "name": "snvk/contact",
+    "description": "This is a small description about my package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Snvk\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinod Patidar",
+            "email": "vinod@snayvik.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
