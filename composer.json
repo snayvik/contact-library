@@ -1,6 +1,6 @@
 {
     "name": "snvk/contact",
-    "description": "This is a small description about my package",
+    "description": "This is a small description about my package and it is used for checking via packagist",
     "type": "library",
     "license": "MIT",
     "autoload": {
